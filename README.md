@@ -1,4 +1,4 @@
-# Resolu-o-de-Problemas-Estruturados-em-Computa-o-Main.java: Contém a implementação das classes Pilha e Fila em Java e o método principal para execução dos exemplos.
+# Resolucao-de-Problemas-Estruturados-em-Computacao-Main.java: Contém a implementação das classes Pilha e Fila em Java e o método principal para execução dos exemplos.
 
 
 Execute o Código
